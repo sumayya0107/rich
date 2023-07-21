@@ -4,3 +4,7 @@
     box-sizing: border-box;
     font-family: cursive;
 }
+body{
+    background: palevioletred;
+    color: wheat;
+}
